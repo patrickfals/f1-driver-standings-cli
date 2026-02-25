@@ -10,6 +10,10 @@ I built this project to practice working with external APIs, data processing, an
 - Basic API error handling
 - Cleanly formatted standings output using pandas
 
+## Screenshot
+
+![Project Screenshot](images/f1-drivers-cli-screenshot.png)
+
 ## What I Learned
 - How to make HTTP requests with `requests`
 - How to handle JSON API responses
